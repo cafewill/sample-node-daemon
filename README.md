@@ -23,10 +23,6 @@ Step #3 Docker run and connect localhost:5000 or localhost:8282
 
 ## See Also
 
-* https://github.com/cafewill/spring-daemon-devel
-* https://github.com/cafewill/node-daemon-devel
-* https://github.com/cafewill/flask-daemon-devel
-* https://github.com/cafewill/fastapi-daemon-devel
-
-* https://github.com/cafewill/simple-crud-gradle-jpa-h2-thymeleaf
-* https://github.com/cafewill/simple-crud-maven-jpa-h2-freemarker
+* https://github.com/cafewill/sample-node-daemon
+* https://github.com/cafewill/sample-flask-daemon
+* https://github.com/cafewill/sample-spring-daemon
